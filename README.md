@@ -5,6 +5,10 @@ Windows utility to convert all webp files on the Desktop to PNG files
 
 Simply double-click the application. It will automatically find your Desktop folder, convert every file with the extension `.webp` to a PNG file of the same name, and delete the original file. 
 
+# Why? 
+
+webp is an excellent image file format that unfortunately still does not have wide-spread support. This utility allows a user to convert files they dragged out of a web browser to PNG files they can immediately use in their non-compliant application.
+
 # Dependencies:
 
 * nothings/stb/stb_image_write.h (https://github.com/nothings/stb)
